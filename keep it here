@@ -1,0 +1,45 @@
+
+class item {
+  double Price = 0;
+  String items;
+
+  item(this.items, this.Price);
+
+  void displayItem(String itself, double money) {
+    items = itself;
+    Price = money;
+  }
+}
+
+
+class itemStock{
+
+  
+  int stock = 0;
+
+  }
+
+  class Vendingmachine{
+  List items = [];
+  double Balance = 0;
+  }
+
+void main() {
+  final itemsSoda = item('Soda', 2.50);
+  final itemsChips = item('Chips', 1.50);
+  final itemsCandy = item('Candy', 1);
+  
+  
+}
+
+
+
+
+void selectItem (){
+
+  if () {
+  
+   else {
+  
+  }
+}
